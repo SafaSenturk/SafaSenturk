@@ -79,6 +79,25 @@ Her proje müşterilerin sorduğu bir soruya cevap veriyor:
 - **Vision Lab:** yapay zekâ ekleyebilir mi?
 - **GlobeGo:** verilen bir tasarımı birebir koda dökebilir mi?
 
+## 🧩 Eklentiler
+
+<a href="https://github.com/SafaSenturk/Plugins"><img src="https://raw.githubusercontent.com/SafaSenturk/Plugins/main/docs/banner.png" alt="Plugins" width="100%" /></a>
+
+Uygulamalarımdan çıkardığım, başka projelerde doğrudan kullanılabilen parçalar: **[Plugins](https://github.com/SafaSenturk/Plugins)**
+
+| Eklenti | Ne işe yarar |
+|---|---|
+| [flutter-motion-kit](https://github.com/SafaSenturk/Plugins/tree/main/flutter-motion-kit) | Kaydırarak onayla, basınca küçülen kartlar, sırayla beliren listeler, buzlu cam, yükleniyor iskeleti |
+| [flutter-payment-card](https://github.com/SafaSenturk/Plugins/tree/main/flutter-payment-card) | Kart doğrulama (Luhn, marka, CVV) ve dönen animasyonlu kredi kartı |
+| [booking-slots](https://github.com/SafaSenturk/Plugins/tree/main/booking-slots) | Çift rezervasyonu imkânsız kılan müsaitlik + Firestore transaction + kurallar |
+| [firestore-chat-kit](https://github.com/SafaSenturk/Plugins/tree/main/firestore-chat-kit) | Gerçek zamanlı sohbet veri katmanı, güvenlik kuralları, bildirim fonksiyonu |
+| [flutter-offline-cache](https://github.com/SafaSenturk/Plugins/tree/main/flutter-offline-cache) | İnternet yokken son veriyi gösteren önce çevrimdışı önbellek |
+| [flutter-weather-sky](https://github.com/SafaSenturk/Plugins/tree/main/flutter-weather-sky) | Havaya göre hareketli gökyüzü ve elle çizilmiş hava ikonları |
+| [flutter-image-filters](https://github.com/SafaSenturk/Plugins/tree/main/flutter-image-filters) | Saf Dart ile Otsu, uyarlamalı eşik, Sobel ve diğer görüntü işleme filtreleri |
+| [flutter-dev-tools](https://github.com/SafaSenturk/Plugins/tree/main/flutter-dev-tools) | Tasarımla piksel karşılaştırma, emülatör otomasyonu, README görselleri |
+
+Ayrıca web (sayfa düzenleyici, 3B küre, WhatsApp bot kiti, NestJS JWT…) ve Unity (kodla arayüz, FPS kontrolü, prosedürel ses…) eklentileri.
+
 ## 🧰 Diğer işlerim
 
 | Proje | Ne yapar | Teknolojiler |
@@ -86,7 +105,6 @@ Her proje müşterilerin sorduğu bir soruya cevap veriyor:
 | [WhatsApp AI Asistanı](https://github.com/SafaSenturk/whatsapp-ai-asistan) | Müşteri mesajlarına yapay zekâ ile cevap verir, konuşmaları ve müşteri adaylarını tek panelde toplar, gerektiğinde insana devreder | Next.js, Supabase, Evolution API, Gemini |
 | [Packet Tracer Ağ Topolojileri](https://github.com/SafaSenturk/packet-tracer-topolojileri) | Tek konulu laboratuvarlardan 55 cihazlı kampüs ağına ve çok şubeli WAN'a uzanan 7 ağ tasarımı | Cisco Packet Tracer, VLAN, OSPF, HSRP, NAT/ACL, GRE |
 | [Gamedle](https://github.com/SafaSenturk/gamedle) | Karakter tahmin oyunlarını bir araya getiren Android uygulaması | Kotlin, Jetpack Compose |
-| [Plugins](https://github.com/SafaSenturk/Plugins) | Projelerimden çıkardığım, yeniden kullanılabilir web ve Unity eklentileri | JavaScript, TypeScript, C#, Kotlin |
 | [DE L'AMOUR](https://delamour-vitrin.web.app) | Satıcı panelli e-ticaret vitrini (canlı site) | Web, Firebase |
 
 ## 🛠️ Kullandıklarım
@@ -121,11 +139,22 @@ Each of the six Flutter apps above answers a question clients ask:
 
 Every app has an APK on its Releases page and a Turkish / English interface.
 
+**Plugins:** reusable pieces taken from my apps, in the **[Plugins](https://github.com/SafaSenturk/Plugins)** repo:
+- **Flutter:**
+  - Slide-to-confirm and motion widgets.
+  - Payment card validation with an animated card.
+  - Double-booking-proof booking slots.
+  - A Firestore chat kit.
+  - An offline-first cache.
+  - An animated weather sky.
+  - Image filters.
+  - Design comparison tools.
+- **Web and Unity** plugins.
+
 **Other work:**
 - **WhatsApp AI Assistant:** answers customers with AI and hands over to a human when needed.
 - **Packet Tracer Topologies:** 7 network designs, up to a 55-device campus network and a multi-branch WAN.
 - **Gamedle:** a Kotlin / Compose guessing-games app.
-- **Plugins:** reusable web and Unity plugins.
 - **DE L'AMOUR:** a live e-commerce site with a seller panel.
 
 **Tools:** Flutter, Dart, Riverpod, Bloc, Firebase, ML Kit, Kotlin, TypeScript, Next.js, Unity, Cisco networking.
