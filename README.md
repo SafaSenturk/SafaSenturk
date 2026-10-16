@@ -4,23 +4,28 @@
 
 ### Flutter Mobil Geliştirici · Flutter Mobile Developer
 
-Flutter ile uçtan uca mobil uygulamalar geliştiriyorum: birebir arayüzden arka uca, Firebase, REST API, state management, testler ve yayına hazır sürümler.
+Flutter ile uçtan uca mobil uygulamalar geliştiriyorum: birebir arayüzden arka uca, Firebase, REST API, state management, testler ve yayına hazır sürümler. Web, ağ ve oyun tarafında da projelerim var.
 
 🌐 **[safasenturk.github.io](https://safasenturk.github.io/)** · 🇬🇧 [English](#-english)
+
+**[📱 Mobil](#-mobil)** · **[🌐 Web](#-web)** · **[🖧 Ağ](#-ağ)** · **[🎮 Oyun](#-oyun)** · **[🧩 Eklentiler](#-eklentiler)**
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?logo=firebase&logoColor=white)
-![Riverpod](https://img.shields.io/badge/Riverpod-0283D3)
-![Bloc](https://img.shields.io/badge/Bloc-6C3FE8)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?logo=cisco&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-222222?logo=unity&logoColor=white)
 
 </div>
 
-## 📱 Flutter uygulamaları
+## 📱 Mobil
 
-Aşağıdaki her uygulamada şunlar var:
+### Flutter uygulamaları
+
+Her uygulamada şunlar var:
 - Releases sayfasında APK.
 - Demo GIF'i ve ekran görüntüleri.
 - Testler ve CI.
@@ -79,40 +84,46 @@ Her proje müşterilerin sorduğu bir soruya cevap veriyor:
 - **Vision Lab:** yapay zekâ ekleyebilir mi?
 - **GlobeGo:** verilen bir tasarımı birebir koda dökebilir mi?
 
-## 🧩 Eklentiler
-
-<a href="https://github.com/SafaSenturk/Plugins"><img src="https://raw.githubusercontent.com/SafaSenturk/Plugins/main/docs/banner.png" alt="Plugins" width="100%" /></a>
-
-Uygulamalarımdan çıkardığım, başka projelerde doğrudan kullanılabilen parçalar: **[Plugins](https://github.com/SafaSenturk/Plugins)**
-
-| Eklenti | Ne işe yarar |
-|---|---|
-| [flutter-motion-kit](https://github.com/SafaSenturk/Plugins/tree/main/flutter-motion-kit) | Kaydırarak onayla, basınca küçülen kartlar, sırayla beliren listeler, buzlu cam, yükleniyor iskeleti |
-| [flutter-payment-card](https://github.com/SafaSenturk/Plugins/tree/main/flutter-payment-card) | Kart doğrulama (Luhn, marka, CVV) ve dönen animasyonlu kredi kartı |
-| [booking-slots](https://github.com/SafaSenturk/Plugins/tree/main/booking-slots) | Çift rezervasyonu imkânsız kılan müsaitlik + Firestore transaction + kurallar |
-| [firestore-chat-kit](https://github.com/SafaSenturk/Plugins/tree/main/firestore-chat-kit) | Gerçek zamanlı sohbet veri katmanı, güvenlik kuralları, bildirim fonksiyonu |
-| [flutter-offline-cache](https://github.com/SafaSenturk/Plugins/tree/main/flutter-offline-cache) | İnternet yokken son veriyi gösteren önce çevrimdışı önbellek |
-| [flutter-weather-sky](https://github.com/SafaSenturk/Plugins/tree/main/flutter-weather-sky) | Havaya göre hareketli gökyüzü ve elle çizilmiş hava ikonları |
-| [flutter-image-filters](https://github.com/SafaSenturk/Plugins/tree/main/flutter-image-filters) | Saf Dart ile Otsu, uyarlamalı eşik, Sobel ve diğer görüntü işleme filtreleri |
-| [flutter-dev-tools](https://github.com/SafaSenturk/Plugins/tree/main/flutter-dev-tools) | Tasarımla piksel karşılaştırma, emülatör otomasyonu, README görselleri |
-
-Ayrıca web (sayfa düzenleyici, 3B küre, WhatsApp bot kiti, NestJS JWT…) ve Unity (kodla arayüz, FPS kontrolü, prosedürel ses…) eklentileri.
-
-## 🧰 Diğer işlerim
+## 🌐 Web
 
 | Proje | Ne yapar | Teknolojiler |
 |---|---|---|
 | [WhatsApp AI Asistanı](https://github.com/SafaSenturk/whatsapp-ai-asistan) | Müşteri mesajlarına yapay zekâ ile cevap verir, konuşmaları ve müşteri adaylarını tek panelde toplar, gerektiğinde insana devreder | Next.js, Supabase, Evolution API, Gemini |
-| [Packet Tracer Ağ Topolojileri](https://github.com/SafaSenturk/packet-tracer-topolojileri) | Tek konulu laboratuvarlardan 55 cihazlı kampüs ağına ve çok şubeli WAN'a uzanan 7 ağ tasarımı | Cisco Packet Tracer, VLAN, OSPF, HSRP, NAT/ACL, GRE |
-| [Gamedle](https://github.com/SafaSenturk/gamedle) | Karakter tahmin oyunlarını bir araya getiren Android uygulaması | Kotlin, Jetpack Compose |
 | [DE L'AMOUR](https://delamour-vitrin.web.app) | Satıcı panelli e-ticaret vitrini (canlı site) | Web, Firebase |
+| [Portföy sitem](https://github.com/SafaSenturk/SafaSenturk.github.io) | Projelerimi ve iletişim bilgilerimi toplayan kişisel site ([canlı](https://safasenturk.github.io/)) | HTML, CSS, JavaScript |
+
+## 🖧 Ağ
+
+| Proje | Ne yapar | Teknolojiler |
+|---|---|---|
+| [Packet Tracer Ağ Topolojileri](https://github.com/SafaSenturk/packet-tracer-topolojileri) | Tek konulu laboratuvarlardan 55 cihazlı kampüs ağına ve çok şubeli WAN'a uzanan 7 ağ tasarımı; her birinde senaryo ve istenenler | Cisco Packet Tracer, VLAN, OSPF, HSRP, EtherChannel, NAT/ACL, GRE, SSH |
+
+## 🎮 Oyun
+
+| Proje | Ne yapar | Teknolojiler |
+|---|---|---|
+| [Gamedle](https://github.com/SafaSenturk/gamedle) | Karakter tahmin oyunlarını bir araya getiren Android uygulaması | Kotlin, Jetpack Compose |
+| Kule Ustası · Kaos Voleybol | Unity ile mobil oyunlar (ayrıntılar [portföyümde](https://safasenturk.github.io/)) | Unity, C# |
+
+## 🧩 Eklentiler
+
+<a href="https://github.com/SafaSenturk/Plugins"><img src="https://raw.githubusercontent.com/SafaSenturk/Plugins/main/docs/banner.png" alt="Plugins" width="100%" /></a>
+
+Projelerimden çıkardığım, başka projelerde doğrudan kullanılabilen parçalar, kategorilere ayrılmış hâlde: **[Plugins](https://github.com/SafaSenturk/Plugins)**
+
+| Kategori | Eklentiler |
+|---|---|
+| 📱 [Mobil](https://github.com/SafaSenturk/Plugins/tree/main/mobile) | [flutter-motion-kit](https://github.com/SafaSenturk/Plugins/tree/main/mobile/flutter-motion-kit) (kaydırarak onayla, hareketli arayüz) · [flutter-payment-card](https://github.com/SafaSenturk/Plugins/tree/main/mobile/flutter-payment-card) (kart doğrulama, dönen kart) · [booking-slots](https://github.com/SafaSenturk/Plugins/tree/main/mobile/booking-slots) (çift rezervasyonsuz randevu) · [firestore-chat-kit](https://github.com/SafaSenturk/Plugins/tree/main/mobile/firestore-chat-kit) (gerçek zamanlı sohbet) · [flutter-offline-cache](https://github.com/SafaSenturk/Plugins/tree/main/mobile/flutter-offline-cache) (çevrimdışı önbellek) · [flutter-weather-sky](https://github.com/SafaSenturk/Plugins/tree/main/mobile/flutter-weather-sky) (hareketli gökyüzü) · [flutter-image-filters](https://github.com/SafaSenturk/Plugins/tree/main/mobile/flutter-image-filters) (görüntü işleme) |
+| 🌐 [Web](https://github.com/SafaSenturk/Plugins/tree/main/web) | page-editor (görsel sayfa düzenleyici) · orb3d (3B küre) · web-utils · persistent-store · whatsapp-bot-kit · nestjs-jwt-auth |
+| 🎮 [Oyun](https://github.com/SafaSenturk/Plugins/tree/main/game) | unity-ui-kit · unity-pause-menu · unity-fps-controller · unity-procedural-audio · unity-foot-grounder · guess-game-engine |
+| 🛠️ [Araçlar](https://github.com/SafaSenturk/Plugins/tree/main/tools) | [flutter-dev-tools](https://github.com/SafaSenturk/Plugins/tree/main/tools/flutter-dev-tools) (tasarımla piksel karşılaştırma, emülatör otomasyonu, README görselleri) |
 
 ## 🛠️ Kullandıklarım
 
 **Mobil:** Flutter, Dart, Riverpod, Bloc, Provider, Firebase (Auth, Firestore, FCM, Functions), ML Kit, Kotlin, Jetpack Compose, React Native  
 **Web:** TypeScript, Next.js, React, NestJS, Supabase  
-**Oyun:** Unity, C#  
-**Ağ:** Cisco Packet Tracer, VLAN, OSPF, HSRP, NAT/ACL
+**Ağ:** Cisco Packet Tracer, VLAN, OSPF, HSRP, EtherChannel, NAT/ACL  
+**Oyun:** Unity, C#
 
 ## 📫 İletişim
 
@@ -122,14 +133,9 @@ Bir uygulama fikrin ya da hazır bir tasarımın mı var? Portföyümden ulaşab
 
 ## 🇬🇧 English
 
-I'm Safa, a computer engineering student and **Flutter mobile developer**. I build complete mobile apps:
-- Pixel-perfect UI.
-- Firebase and REST APIs.
-- State management (Riverpod, Bloc).
-- Tests.
-- Release-ready APKs.
+I'm Safa, a computer engineering student and **Flutter mobile developer**. I build complete mobile apps, and I also work on web, networking and game projects.
 
-Each of the six Flutter apps above answers a question clients ask:
+**📱 Mobile.** Each of the six Flutter apps above answers a question clients ask:
 - **NovaShop:** can you build an e-commerce app?
 - **Glow Studio:** can you build a booking system?
 - **Pulse:** can you build a real-time app on Firebase?
@@ -137,26 +143,27 @@ Each of the six Flutter apps above answers a question clients ask:
 - **Vision Lab:** can you add AI features?
 - **GlobeGo:** can you turn a design into code pixel by pixel?
 
-Every app has an APK on its Releases page and a Turkish / English interface.
+Every app has an APK on its Releases page, tests, CI and a Turkish / English interface.
 
-**Plugins:** reusable pieces taken from my apps, in the **[Plugins](https://github.com/SafaSenturk/Plugins)** repo:
-- **Flutter:**
-  - Slide-to-confirm and motion widgets.
-  - Payment card validation with an animated card.
-  - Double-booking-proof booking slots.
-  - A Firestore chat kit.
-  - An offline-first cache.
-  - An animated weather sky.
-  - Image filters.
-  - Design comparison tools.
-- **Web and Unity** plugins.
-
-**Other work:**
-- **WhatsApp AI Assistant:** answers customers with AI and hands over to a human when needed.
-- **Packet Tracer Topologies:** 7 network designs, up to a 55-device campus network and a multi-branch WAN.
-- **Gamedle:** a Kotlin / Compose guessing-games app.
+**🌐 Web**
+- **WhatsApp AI Assistant:** answers customers with AI and hands over to a human when needed (Next.js, Supabase, Gemini).
 - **DE L'AMOUR:** a live e-commerce site with a seller panel.
+- **My portfolio site.**
 
-**Tools:** Flutter, Dart, Riverpod, Bloc, Firebase, ML Kit, Kotlin, TypeScript, Next.js, Unity, Cisco networking.
+**🖧 Networking**
+- **Packet Tracer Topologies:** 7 network designs, up to a 55-device campus network and a multi-branch WAN.
+- Technologies: VLAN, OSPF, HSRP, NAT/ACL, GRE.
+
+**🎮 Games**
+- **Gamedle:** a Kotlin / Compose guessing-games app.
+- **Unity mobile games:** Kule Ustası and Kaos Voleybol.
+
+**🧩 Plugins.** Reusable pieces taken from my projects, grouped in the **[Plugins](https://github.com/SafaSenturk/Plugins)** repo:
+- **Mobile:** Flutter motion widgets, payment card, booking slots, chat kit, offline cache, weather sky, image filters.
+- **Web:** page editor, 3D globe, WhatsApp bot kit, NestJS auth.
+- **Games:** Unity scripts.
+- **Tools:** design comparison and emulator automation.
+
+**Tools I use:** Flutter, Dart, Riverpod, Bloc, Firebase, ML Kit, Kotlin, TypeScript, Next.js, Cisco networking, Unity.
 
 Have an app idea or a design you want built? Reach me through my portfolio: **[safasenturk.github.io](https://safasenturk.github.io/)**
